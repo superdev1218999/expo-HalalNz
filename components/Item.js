@@ -15,7 +15,7 @@ const styles = StyleSheet.create({
   name: {
     fontSize: 30,
   },
-  price: {
+  status: {
     color: "grey",
     fontSize: 22,
   },
